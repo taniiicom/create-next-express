@@ -12,9 +12,15 @@ npx create-nexpress-app
 
 ## スタック / stack.
 
+front
 - nextjs v14
 - chakra-ui v2
+
+server
 - express
+- docker
+
+shared
 - prisma
 - openapi
 
