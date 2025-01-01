@@ -5,7 +5,7 @@ const app: Application = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.get("/", (req: Request, res: Response) => {
+app.get("/ping", (req: Request, res: Response) => {
   res.status(200).send({ message: "Hello, TypeScript Express!" });
 });
 
