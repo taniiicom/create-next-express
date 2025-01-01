@@ -1,6 +1,6 @@
 # create-nexpress-app
 
-1 アプリ / 1 ヶ月リリース を実現するための Next.js x Express x Prisma x OpenAPI の高速開発モノレポテンプレート
+Next.js x Express x Prisma x OpenAPI の高速開発モノレポテンプレート
 
 an "express" development monorepo template with Next.js x Express x Prisma x OpenAPI to release 1app / 1month.
 
